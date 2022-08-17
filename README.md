@@ -22,10 +22,10 @@ Users should be able to:
 
 ### Links
 
-- [👉 Click here to see Live preview]()
+- [👉 Click here to see Live preview](https://codepapa360.github.io/Social-proof-section/)
 <br>
 
-- [👉 Frontendmentor solution]()
+- [👉 Frontendmentor solution](https://www.frontendmentor.io/solutions/responsive-social-proof-section-YKrOkiTRjk)
 
 ## My process
 
