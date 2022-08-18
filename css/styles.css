@@ -130,6 +130,10 @@ main {
     color: var(--clr-Soft-Pink);
 }
 
+.comment{
+    line-height: 1.4;
+}
+
 
 .attribution {
     font-size: 16px;
