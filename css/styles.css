@@ -138,7 +138,7 @@ main {
     border-left: 2px solid var(--clr-Very-Dark-Magenta);
     border-right: 2px solid var(--clr-Very-Dark-Magenta);
     border-radius: 10px;
-    margin: auto;
+    margin: 1rem auto;
     width: -webkit-max-content;
     width: -moz-max-content;
     width: max-content;
