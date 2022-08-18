@@ -49,6 +49,7 @@ main {
 .upper-section__brief {
     color: var(--clr-Dark-Grayish-Magenta);
     font-size: clamp(1.1rem, 2vw, 1.4rem);
+    line-height: 1.6;
 }
 
 .upper-section__right__contents:not(:last-child) {
